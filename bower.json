@@ -1,0 +1,16 @@
+{
+  "name": "legalbeagle-das",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.4.x",
+    "angular-animate": "^1.4.x",
+    "angular-aria": "^1.4.x",
+    "angular-material": "^0.9.0",
+    "reflux": "~0.2.7",
+    "immutable": "~3.7.3",
+    "angular-immutable": "~0.1.0",
+    "requirejs": "~2.1.18",
+    "require-css": "~0.1.8",
+    "requirejs-plugins": "~1.0.3"
+  }
+}
